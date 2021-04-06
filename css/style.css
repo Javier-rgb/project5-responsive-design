@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cont-c1, .cont-c2, .cont-c3, .cont-c4, .cont-c5{
+    width: 100%;
+    min-width: 150px;
+    height: 150px;
+}
+
+.cont-c1{
+    background-color: aqua;
+}
+
+.cont-c2{
+    background-color: blueviolet;
+}
+
+.cont-c3{
+    background-color: chocolate;
+}
+
+.cont-c4{
+    background-color: darkgreen;
+}
+
+.cont-c5{
+    background-color: darkred;
+}
