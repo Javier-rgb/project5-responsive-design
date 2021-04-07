@@ -1,3 +1,11 @@
-.cont-c2, .cont-c3, .cont-c4{
-    width: 50%;
+.cont-c1{
+    width: 25%;
+}
+
+.cont-c2{
+    width: 75%;
+}
+
+.cont-c3{
+    width: 100%;
 }

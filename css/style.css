@@ -13,10 +13,14 @@ html{
     flex-wrap: wrap;
 }
 
-.cont-c1, .cont-c2, .cont-c3, .cont-c4, .cont-c5{
+.cont-c1, .cont-c2, .cont-c2_1, .cont-c2_2, .cont-c3{
     width: 100%;
     min-width: 150px;
     height: 150px;
+}
+
+.cont-c2{
+    height: auto;
 }
 
 .cont-c1{
@@ -27,14 +31,14 @@ html{
     background-color: blueviolet;
 }
 
-.cont-c3{
+.cont-c2_1{
     background-color: chocolate;
 }
 
-.cont-c4{
+.cont-c2_2{
     background-color: darkgreen;
 }
 
-.cont-c5{
+.cont-c3{
     background-color: darkred;
 }
