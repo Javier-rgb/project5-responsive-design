@@ -1,21 +1,20 @@
-.container{
-    width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .cont-c1{
-    width: 60%;
+    width: 30%;
+    order: 1;
 }
-
 .cont-c2{
     width: 40%;
+    order: 2;
 }
-
-.cont-c3, .cont-c4{
-    width: 33%;
+.cont-c3{
+    width: 30%;
+    order: 3;
 }
-
+.cont-c4{
+    width: 50%;
+    order: 4;
+}
 .cont-c5{
-    width: 34%;
+    width: 50%;
+    order: 5;
 }

@@ -1,3 +1,20 @@
-.cont-c2, .cont-c3, .cont-c4{
-    width: 50%;
+.cont-c1{
+    width: 25%;
+    order: 1;
+}
+.cont-c2{
+    width: 75%;
+    order: 2;
+}
+.cont-c3{
+    width: 100%;
+    order: 3;
+}
+.cont-c4{
+    width: 100%;
+    order: 4;
+}
+.cont-c5{
+    width: 100%;
+    order: 5;
 }
